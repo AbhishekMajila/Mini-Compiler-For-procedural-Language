@@ -78,3 +78,4 @@ class Lexer:
             op = self.code[self.current]
             self.current += 1
         return ('OP', op)
+        
