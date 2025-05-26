@@ -16,7 +16,9 @@ This is a Python-based Mini Compiler for a procedural programming language with 
 
 ## 📁 Project Structure
 
+
 MiniCompiler/
+
 ├── lexer.py # Lexical Analyzer
 ├── parser.py # Syntax Analyzer (Parser)
 ├── semantic.py # Semantic Analyzer
